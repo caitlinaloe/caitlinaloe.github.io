@@ -1,0 +1,40 @@
+* {
+  background-color: #d1d1e0;
+  color: black;
+  font-family: sans-serif;
+}
+
+.navbar, .navbar-expand-lg, .navbar-light, .bg-light .navbar-toggler {
+  background-color: white;
+}
+
+.collapse,
+.navbar-collapse,
+.navbar-brand,
+.navbar-nav,
+.nav-item,
+.nav-link,
+.mr-auto,
+.mt-2,
+.mt-lg-0,
+.active,
+.disabled,
+.sr-only{
+    background-color: white;
+  }
+
+
+
+#navbarTogglerDemo01 {
+    background-color: white;
+}
+
+h1 {
+  background-color: #666699;
+  color: #d1d1e0;
+  padding: 15px;
+}
+
+p {
+  padding: 15px;
+}
